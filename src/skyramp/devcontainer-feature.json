@@ -1,0 +1,12 @@
+{
+    "id": "skyramp",
+    "version": "1.0.0",
+    "name": "Skyramp cli Tools",
+    "documentationURL": "https://skyramp.dev",
+    "description": "Installs skyramp cli tool",
+    "options": {
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
