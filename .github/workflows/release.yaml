@@ -1,14 +1,13 @@
 name: "Release Dev Container Templates & Generate Documentation"
 on:
-  # TODO: on push is only for test 
   push:
     branches:
-      - skyramp-installer
+      - main
   workflow_dispatch:
 
 jobs:
   deploy:
-    # if: ${{ github.ref == 'refs/heads/main' }}
+    if: ${{ github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
