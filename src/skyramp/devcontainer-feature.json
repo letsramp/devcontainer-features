@@ -1,9 +1,9 @@
 {
     "id": "skyramp",
-    "version": "1.0.1",
-    "name": "Skyramp cli Tools",
+    "version": "1.0.2",
+    "name": "Skyramp CLI Tools",
     "documentationURL": "https://skyramp.dev",
-    "description": "Installs skyramp cli tool",
+    "description": "Installs Skyramp CLI Tool",
     "options": {
     },
     "installsAfter": [
