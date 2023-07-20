@@ -1,8 +1,8 @@
 {
     "id": "skyramp",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "Skyramp CLI Tools",
-    "documentationURL": "https://skyramp.dev",
+    "documentationURL": "https://github.com/letsramp/devcontainer-features",
     "description": "Installs Skyramp CLI Tool",
     "options": {
     },
